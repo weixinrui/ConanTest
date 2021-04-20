@@ -15,7 +15,7 @@ auto_array: an auto_ptr counterpart for array objects
     ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
     DEALINGS IN THE SOFTWARE.
 */
-
+//Add test text
 #ifndef AUTO_ARRAY_H
 #define AUTO_ARRAY_H
 
